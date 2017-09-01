@@ -1,2 +1,3 @@
 # hello-world
-Just saying hello
+
+I am working through the official Github Hello-World project tutorial.
